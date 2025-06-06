@@ -82,5 +82,5 @@ I'm **20 years old** and I've been programming since I was **15**. I'm passionat
 
 ### 📊 GitHub Stats
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor&layout=compact&theme=dark)
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor&layout=compact&theme=dracula)
